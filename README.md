@@ -4,4 +4,5 @@
 ### https://github.com/Totomiz/SkinSummer
 ## 皮肤插件2
 ### https://github.com/Totomiz/SkinFall
+![image](https://github.com/Totomiz/PluginMain/blob/master/screenshot/bb.gif)
 
